@@ -8,11 +8,11 @@
   - **Disparo triple**: Aumenta la potencia de ataque.
   - **Vida extra**: Gana una vida adicional.
 
-![Captura de pantalla del menú desplegable Code mostrando la opción Download ZIP](https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/spaceterrorist.png)
+![Captura de pantalla del menú desplegable Code mostrando la opción Download ZIP](./img/spaceterrorist.png)
 
 ---
 
 ## Tecnologías utilizadas
 
-![C# logo](https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/c-sharp.png)
-![Unity logo](https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/unity.png)
+![C# logo](./img/c-sharp.png)
+![Unity logo](./img/unity.png)
